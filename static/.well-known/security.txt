@@ -1,0 +1,35 @@
+Security Contact Information
+
+Well, this is a static site but yeah no system is safe.
+Just to implement the RFC 9116 (https://www.rfc-editor.org/rfc/rfc9116)
+
+            .-""-.
+           / .--. \
+          / /    \ \
+          | |    | |
+          | |.-""-.|
+         ///`.::::.`\
+        ||| ::/  \:: ;
+        ||; ::\__/:: ;
+         \\\ '::::' /
+          `=':-..-'`
+
+# Security Address
+Contact: mailto:hi@hiiruki.dev
+Contact: mailto:security@hiiruki.dev
+Contact: mailto:hiiruki@pm.me
+
+# PGP/GPG Key
+Encryption: https://hiiruki.dev/pgp.txt
+
+# Security Acknowledgments Page
+Acknowledgments: https://hiiruki.dev/.well-known/hof.txt
+
+# Preferred Languages to Report a Vulnerability
+Preferred-Languages: EN, ID
+
+# security.txt File Location
+Canonical: https://hiiruki.dev/.well-known/security.txt
+
+security.txt - A proposed standard which allows websites to define security policies.
+[https://securitytxt.org/]

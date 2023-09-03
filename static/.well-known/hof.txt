@@ -1,0 +1,22 @@
+[!] Hall of Fame [!]
+
+Well, this is a static site but yeah no system is safe.
+Just to implement the RFC 9116 (https://datatracker.ietf.org/doc/html/rfc9116)
+       ___________
+      |.---------.|
+      ||         ||
+      ||         ||
+      ||         ||
+      |'---------'|
+       `)__ ____('
+       [=== -- o ]--.
+     __'---------'__ \
+     [::::::::::: :::] )
+     `""'"""""'""""`/T\
+                    \_/
+
+Thanks to these researcher for finding bugs on my website:
+
+1. You?
+2.
+3.

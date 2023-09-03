@@ -1,0 +1,45 @@
+/* Hey, you found this stuff (⊙＿⊙') */
+
+██╗  ██╗██╗██╗██████╗ ██╗   ██╗██╗  ██╗██╗
+██║  ██║██║██║██╔══██╗██║   ██║██║ ██╔╝██║
+███████║██║██║██████╔╝██║   ██║█████╔╝ ██║
+██╔══██║██║██║██╔══██╗██║   ██║██╔═██╗ ██║
+██║  ██║██║██║██║  ██║╚██████╔╝██║  ██╗██║
+╚═╝  ╚═╝╚═╝╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝
+            https://hiiruki.dev
+
+/* TEAM */
+
+Hiiruki
+- Site    : https://hiiruki.dev/ | https://hiiruki.com/
+- Contact : https://hiiruki.dev/about
+- GitHub  : https://github.com/hiiruki
+
+/* SITE */
+
+Languages:
+- English (EN)
+- Indonesia (ID)
+
+Technologies:
+- Standards  : HTML, CSS, JavaScript, Markdown
+- Frameworks : Hugo
+- IDE        : Visual Studio Code, Vim, Nano
+- Hosting    : Netlify, Vercel, DigitalOcean, GitHub
+- OS         : Arch Linux, Windows 11, Kali Linux, Ubuntu
+
+/* THANKS */
+
+- Hugo [https://gohugo.io/]
+- Netlify [https://www.netlify.com/]
+- Vercel [https://vercel.com/]
+- DigitalOcean [https://www.digitalocean.com/]
+- GitHub [https://github.com/]
+- MDN Web Docs by Mozilla [https://developer.mozilla.org/en-US/]
+- WebDev by Google [https://web.dev/]
+- w3schools [https://www.w3schools.com/]
+- JSFiddle [https://jsfiddle.net/]
+- Email Obfuscator [https://www.albionresearch.com/tools/obfuscator]
+
+The humans responsible & technology colophon
+[http://humanstxt.org]

@@ -1,0 +1,207 @@
+# Basic Information
+baseURL: "https://hiiruki.dev/"
+languageCode: en-us
+title: "Hiiruki's Lab"
+theme: Kamigo
+copyright: '&copy; 2023 [hiiruki.dev](https://hiiruki.dev) | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)'
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableGitInfo: false # https://gohugo.io/variables/git/#gitinfo-variables
+
+permalinks:
+  posts: "/:filename"
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+# Site parameters
+params:
+  env: production
+  title: "Hiiruki's Lab"
+  description: "Thoughts and research on security, privacy, *nix based systems, and other IT stuff."
+  keywords: [Blog, Research, Security, Privacy, Linux]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+  mainSections:
+    - blog
+
+  author: Hiiruki
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: false
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: true
+  ShowFullTextinRSS: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  # showtoc: false
+  # tocopen: false
+
+# Static assets
+  assets:
+    disableHLJS: true # disable highlight.js
+    disableFingerprinting: true
+    favicon: "favicon.ico"
+    favicon16x16: "favicon-16x16.png"
+    favicon32x32: "favicon-32x32.png"
+    apple_touch_icon: "apple-touch-icon.png"
+    safari_pinned_tab: "favicon.svg"
+
+# Home-info mode
+  homeInfoParams:
+    title: "Hiiruki's Lab"
+    content: Thoughts and research on security, privacy, *nix based systems, and other IT stuff.
+
+# profile-mode
+  profileMode:
+      enabled: true # needs to be explicitly set
+      title: ひるき
+      subtitle: "_Astra inclinant, sed non obligant._"
+      imageUrl: "images/profile.webp"
+      imageWidth: 120
+      imageHeight: 120
+      imageTitle: Hiiruki's Profile Picture
+      buttons:
+        - name: Blog
+          url: blog
+
+# Social
+  socialIcons:
+    - name: matrix
+      url: "https://matrix.to/#/@hiiruki:matrix.org"
+    - name: github
+      url: "https://github.com/hiiruki"
+    - name: mastodon
+      url: "https://infosec.exchange/@hiiruki"
+    - name: twitter
+      url: "https://x.com/0xHiiruki"
+    # - name: discord
+    #   url: "https://discordapp.com/users/529270835341426708"
+    # - name: telegram
+    #   url: "https://t.me/hiirvki"
+    # - name: xmpp => There is a bug in the URL, when using `xmpp:` as a protocol in the URL, it will be converted to http://xmpp:hiiruki@yourdataforsale which results in 404.
+    #   url: "xmpp:hiiruki@yourdata.forsale"
+    - name: email
+      url: "mailto:hi@hiiruki.dev"
+    - name: pgp
+      url: "/pgp.txt"
+    - name: rss
+      url: /index.xml
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+# # For edit link
+#   editPost:
+#     URL: "https://github.com/hiiruki/fathoni.dev/blob/main/content"
+#     Text: "Source Code" # edit text
+#     appendFilePath: true # to append file path to Edit link
+
+# For search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    # ignoreLocation: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "summary", "description"]
+
+#Enabling Search
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
+
+menu:
+  main:
+    - name: Archives
+      url: /archives/
+      weight: 1
+    - name: Tags
+      url: /tags/
+      weight: 2
+    - name: Search
+      url: /search/
+      weight: 3
+    - name: About
+      url: /about/
+      weight: 4
+    - name: Alt
+      url: https://hiiruki.com/
+      weight: 5
+
+# Taxonomies
+taxonomies:
+  tag: tags
+
+# Hugo and the General Data Protection Regulation (GDPR) <https://gohugo.io/about/hugo-and-gdpr/>
+privacy:
+  vimeo:
+  # Simple mode use `{{< vimeo_simple 48912912 >}}` to embed vimeo video using simple media player.
+    disable: false
+    enableDNT: true # https://developer.vimeo.com/guidelines/dnt
+    simple: true # https://developer.vimeo.com/player/embedding
+  twitter:
+  # Simple mode use `{{< twitter_simple 1085870671291310081 >}}` to embed twitter tweet using simple embed mode.
+    disable: false
+    enableDNT: true # https://developer.twitter.com/en/docs/twitter-for-websites/privacy
+    simple: true # https://developer.twitter.com/en/docs/twitter-for-websites/javascript-api/guides/set-up-twitter-for-websites
+# instagram:
+# Error -> instagram shortcode: Missing config value for services.instagram.accessToken. Please set it in config.toml or config.yaml
+# # Simple mode use `{{< instagram_simple CGh4a0iASGS >}}` to embed instagram post using simple embed mode.
+# # Note: Don't paste that Instagram post ID into browser, https://www.instagram.com/p/<post ID> :p
+#   disable: false
+#   disableInlineCSS: true
+#   simple: false # https://developers.facebook.com/docs/instagram/oembed
+  youtube:
+  # Simple mode use `{{< youtube_simple ZJthWmvUzzc >}}` to embed youtube video using simple media player.
+    disable: false
+    privacyEnhanced: true # https://developers.google.com/youtube/player_parameters#privacy-enhanced-mode
+    simple: true # https://developers.google.com/youtube/player_parameters#Loading_a_Video_Player
+  disqus:
+    disable: true # https://help.disqus.com/en/articles/1717111-what-is-the-opt-out-feature
+  googleAnalytics:
+    anonymizeIP: true # https://developers.google.com/analytics/devguides/collection/analyticsjs/field-reference#anonymizeIp
+    disable: true
+    respectDoNotTrack: true # https://developers.google.com/analytics/devguides/collection/analyticsjs/field-reference#respectDNT
+    useSessionStorage: true # https://developers.google.com/analytics/devguides/collection/analyticsjs/field-reference#useSessionStorage
+
+# I will never add user tracking of any type because I simply do not care. I don't care how popular the site is or isn't - it exists for my personal satisfaction.
+# analytics:
+#     google:
+#       SiteVerificationTag: "XYZabc"
+#     bing:
+#       SiteVerificationTag: "XYZabc"
+#     yandex:
+#       SiteVerificationTag: "XYZabc"
+
+
+# https://gohugo.io/getting-started/configuration-markup/
+markup:
+    highlight: # https://gohugo.io/content-management/syntax-highlighting/
+        style: dracula
+        lineNos: false
+        noClasses: false
+        guessSyntax: true
+        anchorLineNos: false
+    goldmark: # https://gohugo.io/getting-started/configuration-markup/#goldmark
+      renderer:
+        unsafe: true
+        xhtml: false
+
+# # Disqus
+# disqusShortname: hiiruki

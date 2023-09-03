@@ -1,0 +1,24 @@
+# PGP & SSH Key
+/pgp              https://hiiruki.dev/pgp.txt
+/ssh              https://hiiruki.dev/ssh.txt
+
+# Security
+/security         /.well-known/security.txt
+/hof              /.well-known/hof.txt
+
+# Colophon
+/humans           /humans.txt
+
+# ¯\_(ツ)_/¯
+/admin            http://aka.ms/confidential
+/administrator    http://aka.ms/confidential
+/login            http://aka.ms/confidential
+/cpanel           http://aka.ms/confidential
+/secret           http://aka.ms/confidential
+/webadmin         http://aka.ms/confidential
+/adminarea        http://aka.ms/confidential
+/cp               http://aka.ms/confidential
+/controlpanel     http://aka.ms/confidential
+
+# Contact
+/contact          /contact.txt

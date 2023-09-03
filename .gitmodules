@@ -1,0 +1,3 @@
+[submodule "themes/Kamigo"]
+	path = themes/Kamigo
+	url = https://github.com/hiiruki/hugo-Kamigo
