@@ -9,7 +9,7 @@ enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
-enableGitInfo: false # https://gohugo.io/variables/git/#gitinfo-variables
+enableGitInfo: true # https://gohugo.io/variables/git/#gitinfo-variables
 
 permalinks:
   posts: "/:filename"
