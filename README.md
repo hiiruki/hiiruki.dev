@@ -8,19 +8,6 @@ This is my personal website. It's built with [Hugo](https://gohugo.io/) and host
 
 You can visit [here](https://hiiruki.dev).
 
-```
-                   | EN  
--------------------+-----
-  Pages            | 12  
-  Paginator pages  |  0  
-  Non-page files   |  0  
-  Static files     | 18  
-  Processed images |  0  
-  Aliases          |  1  
-  Sitemaps         |  1  
-  Cleaned          |  0
-```
-
 ## License
 
 The content of this website is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
