@@ -49,11 +49,11 @@ params:
   assets:
     disableHLJS: true # disable highlight.js
     disableFingerprinting: true
-    favicon: "favicon.ico"
-    favicon16x16: "favicon-16x16.png"
-    favicon32x32: "favicon-32x32.png"
-    apple_touch_icon: "apple-touch-icon.png"
-    safari_pinned_tab: "favicon.svg"
+    favicon: "/favicon.ico"
+    favicon16x16: "/favicon-16x16.png"
+    favicon32x32: "/favicon-32x32.png"
+    apple_touch_icon: "/apple-touch-icon.png"
+    safari_pinned_tab: "/favicon.svg"
 
 # Home-info mode
   homeInfoParams:
@@ -65,7 +65,7 @@ params:
       enabled: true # needs to be explicitly set
       title: ひるき
       subtitle: "_Astra inclinant, sed non obligant._"
-      imageUrl: "images/profile.webp"
+      imageUrl: "/images/profile.webp"
       imageWidth: 120
       imageHeight: 120
       imageTitle: Hiiruki's Profile Picture
