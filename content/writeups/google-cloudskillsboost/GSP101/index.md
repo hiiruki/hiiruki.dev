@@ -47,7 +47,7 @@ cover:
 Lab: [GSP101](https://www.cloudskillsboost.google/focuses/1734?parent=catalog)<br>
 Quest: [Cloud Architecture: Design, Implement, and Manage](https://www.cloudskillsboost.google/quests/124)<br>
 
-🔄 Last updated: May 26, 2023
+🔄 Last updated: Sep 04, 2023
 
 ## Challenge scenario
 
@@ -105,4 +105,4 @@ Your challenge is to deploy the site in the public cloud by completing the tasks
 
 ## Congratulations!
 
-![Congratulations Badge](https://cdn.qwiklabs.com/Ol0IAaeZbMNmToILKVne%2BkFlHoAu%2BZtH%2BErA8jO7m%2Bc%3D)
+![Congratulations Badge](https://cdn.qwiklabs.com/Ol0IAaeZbMNmToILKVne%2BkFlHoAu%2BZtH%2BErA8jO7m%2Bc%3D#center)
