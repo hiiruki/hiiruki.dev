@@ -29,6 +29,7 @@ params:
   disableThemeToggle: false
   mainSections:
     - blog
+    - writeups
 
   author: Hiiruki
   ShowReadingTime: true
@@ -72,6 +73,8 @@ params:
       buttons:
         - name: Blog
           url: blog
+        - name: Writeups
+          url: writeups
 
 # Social
   socialIcons:
