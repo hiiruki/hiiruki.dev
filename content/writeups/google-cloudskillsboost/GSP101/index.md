@@ -10,7 +10,7 @@ canonicalURL: ""
 showToc: true
 TocOpen: false
 TocSide: 'right'  # or 'left'
-# weight: 1
+weight: 1
 # aliases: ["/first"]
 hidemeta: false
 comments: false
