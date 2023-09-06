@@ -10,7 +10,7 @@ canonicalURL: ""
 showToc: true
 TocOpen: false
 TocSide: 'right'  # or 'left'
-# weight: 1
+weight: 3
 # aliases: ["/first"]
 hidemeta: false
 comments: false
@@ -44,7 +44,7 @@ Time: 1 hour<br>
 Difficulty: Intermediate<br>
 Price: 5 Credits
 
-Lab: [GSP303](https://www.cloudskillsboost.google/focuses/1735?parent=catalog)<br>
+Lab: [GSP303](https://www.cloudskillsboost.google/focuses/1737?parent=catalog)<br>
 Quest: [Cloud Architecture: Design, Implement, and Manage](https://www.cloudskillsboost.google/quests/124)<br>
 
 🔄 Last updated: Sep 06, 2023
@@ -156,3 +156,5 @@ To connect to the secure host, you have to RDP into the bastion host first, and 
     ![IIS Installation](./images/IIS_install2.webp#center)
 
 ## Congratulations!
+
+![Congratulations Badge](https://cdn.qwiklabs.com/%2FaI3EMiHeGZc46u89ueTTAEgmRSGj5krSwhpzllr88w%3D#center)
