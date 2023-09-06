@@ -2,7 +2,7 @@
 title: "[GSP301] Deploy a Compute Instance with a Remote Startup Script"
 description: ""
 summary: "Quest: Cloud Architecture: Design, Implement, and Manage"
-date: 2023-05-26T11:30:03+07:00
+date: 2023-05-22T04:13:03+07:00
 draft: false
 author: "Hiiruki" # ["Me", "You"] # multiple authors
 tags: ["writeups", "challenge", "google-cloudskillsboost", "gsp301", "google-cloud", "cloudskillsboost", "juaragcp", "google-cloud-platform", "gcp", "cloud-computing", "cloud", "cloud-architecture"]
