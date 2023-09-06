@@ -2,7 +2,7 @@
 title: "[GSP303] Configure Secure RDP using a Windows Bastion Host"
 description: ""
 summary: "Quest: Cloud Architecture: Design, Implement, and Manage"
-date: 2023-05-26T11:30:03+07:00
+date: 2023-05-24T08:38:03+07:00
 draft: false
 author: "Hiiruki" # ["Me", "You"] # multiple authors
 tags: ["writeups", "challenge", "google-cloudskillsboost", "gsp303", "google-cloud", "cloudskillsboost", "juaragcp", "google-cloud-platform", "gcp", "rdp", "bastion", "cloud-computing", "cloud", "cloud-architecture"]
