@@ -38,7 +38,7 @@ cover:
 
 ### GSP303
 
-![Lab Banner](https://cdn.qwiklabs.com/GMOHykaqmlTHiqEeQXTySaMXYPHeIvaqa2qHEzw6Occ%3D)
+![Lab Banner](https://cdn.qwiklabs.com/GMOHykaqmlTHiqEeQXTySaMXYPHeIvaqa2qHEzw6Occ%3D#center)
 
 Time: 1 hour<br>
 Difficulty: Intermediate<br>
@@ -46,8 +46,6 @@ Price: 5 Credits
 
 Lab: [GSP303](https://www.cloudskillsboost.google/focuses/1737?parent=catalog)<br>
 Quest: [Cloud Architecture: Design, Implement, and Manage](https://www.cloudskillsboost.google/quests/124)<br>
-
-🔄 Last updated: Sep 7, 2023
 
 ## Challenge scenario
 

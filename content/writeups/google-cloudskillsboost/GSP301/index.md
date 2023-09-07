@@ -38,7 +38,7 @@ cover:
 
 ### GSP301
 
-![Lab Banner](https://cdn.qwiklabs.com/GMOHykaqmlTHiqEeQXTySaMXYPHeIvaqa2qHEzw6Occ%3D)
+![Lab Banner](https://cdn.qwiklabs.com/GMOHykaqmlTHiqEeQXTySaMXYPHeIvaqa2qHEzw6Occ%3D#center)
 
 - Time: 1 hour<br>
 - Difficulty: Intermediate<br>
@@ -46,8 +46,6 @@ cover:
 
 Lab: [GSP301](https://www.cloudskillsboost.google/focuses/1735?parent=catalog)<br>
 Quest: [Cloud Architecture: Design, Implement, and Manage](https://www.cloudskillsboost.google/quests/124)<br>
-
-🔄 Last updated: Sep 7, 2023
 
 ## Challenge scenario
 
@@ -86,4 +84,4 @@ After firewall creation (Task 3) just wait and then check the score
 
 ## Congratulations!
 
-![Congratulations Badge](https://cdn.qwiklabs.com/%2FaI3EMiHeGZc46u89ueTTAEgmRSGj5krSwhpzllr88w%3D)
+![Congratulations Badge](https://cdn.qwiklabs.com/%2FaI3EMiHeGZc46u89ueTTAEgmRSGj5krSwhpzllr88w%3D#center)

@@ -38,7 +38,7 @@ cover:
 
 ### GSP304
 
-![Lab Banner](https://cdn.qwiklabs.com/GMOHykaqmlTHiqEeQXTySaMXYPHeIvaqa2qHEzw6Occ%3D)
+![Lab Banner](https://cdn.qwiklabs.com/GMOHykaqmlTHiqEeQXTySaMXYPHeIvaqa2qHEzw6Occ%3D#center)
 
 - Time: 1 hour 15 minutes<br>
 - Difficulty: Intermediate<br>
@@ -46,8 +46,6 @@ cover:
 
 Lab: [GSP304](https://www.cloudskillsboost.google/focuses/1738?parent=catalog)<br>
 Quest: [Cloud Architecture: Design, Implement, and Manage](https://www.cloudskillsboost.google/quests/124)<br>
-
-🔄 Last updated: Sep 7, 2023
 
 ## Challenge scenario
 

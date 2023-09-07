@@ -47,8 +47,6 @@ cover:
 Lab: [GSP313](https://www.cloudskillsboost.google/focuses/10258?parent=catalog)<br>
 Quest: [Create and Manage Cloud Resources](https://www.cloudskillsboost.google/quests/120)<br>
 
-🔄 Last updated: Sep 7, 2023
-
 ## Challenge scenario
 
 You have started a new role as a Junior Cloud Engineer for Jooli, Inc. You are expected to help manage the infrastructure at Jooli. Common tasks include provisioning resources for projects.

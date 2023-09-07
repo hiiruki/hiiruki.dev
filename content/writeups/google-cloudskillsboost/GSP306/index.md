@@ -47,8 +47,6 @@ cover:
 Lab: [GSP306](https://www.cloudskillsboost.google/focuses/1740?parent=catalog)<br>
 Quest: [Cloud Architecture: Design, Implement, and Manage](https://www.cloudskillsboost.google/quests/124)<br>
 
-🔄 Last updated: Sep 7, 2023
-
 ## Challenge scenario
 
 Your WordPress blog is running on a server that is no longer suitable. As the first part of a complete migration exercise, you are migrating the locally hosted database used by the blog to Cloud SQL.
