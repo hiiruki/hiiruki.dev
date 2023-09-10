@@ -1,7 +1,7 @@
 ---
 title: "[GSP315] Perform Foundational Infrastructure Tasks in Google Cloud: Challenge Lab"
 description: ""
-summary: "Perform Foundational Infrastructure Tasks in Google Cloud"
+summary: "Quest: Perform Foundational Infrastructure Tasks in Google Cloud"
 date: 2023-05-21T08:21:03+07:00
 draft: false
 author: "Hiiruki" # ["Me", "You"] # multiple authors

@@ -1,7 +1,7 @@
 ---
 title: "[GSP319] Build a Website on Google Cloud: Challenge Lab"
 description: ""
-summary: "Build a Website on Google Cloud"
+summary: "Quest: Build a Website on Google Cloud"
 date: 2023-05-19T03:30:03+07:00
 draft: false
 author: "Hiiruki" # ["Me", "You"] # multiple authors

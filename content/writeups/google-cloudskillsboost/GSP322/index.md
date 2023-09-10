@@ -1,7 +1,7 @@
 ---
 title: "[GSP322] Build and Secure Networks in Google Cloud: Challenge Lab"
 description: ""
-summary: "Build and Secure Networks in Google Cloud"
+summary: "Quest: Build and Secure Networks in Google Cloud"
 date: 2023-05-26T01:08:03+07:00
 draft: false
 author: "Hiiruki" # ["Me", "You"] # multiple authors
