@@ -48,6 +48,10 @@ Previously I had a blog that used Static Site Generator (SSG) which is [Eleventy
 - [Netlify](https://netlify.com) to host this site and for the CI/CD pipeline
 - [GitHub](https://github.com) to host the source code
 
+## Flow
+
+![Flow](images/flow.svg#center "Flow")
+
 ## Why SSG?
 
 I'm using SSG because it's easier to use and it's faster than using CMS (Content Management System) like [WordPress](https://wordpress.com/). I don't need to worry about the server, database, etc. I just need to write the content and the SSG will generate the static site for me.
