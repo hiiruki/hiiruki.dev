@@ -214,7 +214,7 @@ Type the password you want to use and press **Enter**
 
 ![Type ip addr or ip a to see the IP address of the VM](./images/step19.webp#center "Type ip addr or ip a to see the IP address of the VM")
 
-Under the `ens33` interface, you will see the IP address of the VM. In my case, it's `192.168.211.128`.
+Under the `ens33` interface, you will see the IP address of the VM. In my case, it's `192.168.211.129`
 
 > **Note:** The IP address of the VM will be different for everyone.
 
@@ -228,9 +228,9 @@ In my case, I use [Termius](https://termius.com/).
 
 ![Open Termius and click New Host](./images/step20.webp#center "Open Termius and click New Host")
 
-- Set the hostname to the IP address of the VM which is `192.168.211.128` and set the username to `root` and type the password you set earlier. You can also set the VM details if you want. In Termius you can set labels, groups, and tags to your VMs.
+- Set the hostname to the IP address of the VM which is `192.168.211.129` and set the username to `root` and type the password you set earlier. You can also set the VM details if you want. In Termius you can set labels, groups, and tags to your VMs.
 
-![setup hostname](./images/step20-2.webp#center "setup hostname")
+![setup host](./images/step20-2.webp#center "setup host")
 
 - Connect to the VM
 
@@ -303,7 +303,7 @@ This command seems to be updating license files for different components or serv
 
 ### 23. Open the QRadar CE web interface in your browser
 
-Open your browser and type the IP address of the VM. In my case, it's `https://192.168.211.128`
+Open your browser and type the IP address of the VM. In my case, it's `https://192.168.211.129`
 
 > **Note:** Don't forget to use `https://` instead of `http://` because the QRadar CE web interface uses HTTPS.
 
@@ -319,7 +319,7 @@ Open your browser and type the IP address of the VM. In my case, it's `https://1
 
 ![Accept the EULA](./images/step23-3.webp#center "Accept the EULA")
 
-### 24. Configure the Network Activity
+### 24. Configure the Flow Sources
 
 - Click the **breadcrumb**
 
@@ -357,7 +357,13 @@ Open your browser and type the IP address of the VM. In my case, it's `https://1
 
 ### 26. Check the Network Activity tab, and if there are any logs, it means the QRadar CE is working
 
-![Check the Network Activity tab, and if there are any logs, it means the QRadar CE is working](./images/step26.webp#center "Check the Network Activity tab, and if there are any logs, it means the QRadar CE is working")
+- **Log Activity**
+
+![Log Activity](./images/step26.webp#center "Log Activity")
+
+**Network Activity**
+
+![Network Activity](./images/step26-2.webp#center "Network Activity")
 
 ## Congratulations! You have successfully setup IBM QRadar CE on VMware Workstation
 
@@ -370,4 +376,5 @@ Open your browser and type the IP address of the VM. In my case, it's `https://1
 - https://www.ibm.com/docs/en/qradar-on-cloud?topic=support-common-problems
 - https://www.ibm.com/docs/en/qsip
 - http://ftpmirror.your.org/pub/misc/ftp.software.ibm.com/software/security/products/qradar/documents/7.2.4/QLM/EN/b_qradar_system_notifications.pdf
+- [Tutorial: QRadar CE SIEM - Installation and Configuration (Complete Steps) by Semi Yulianto](https://youtu.be/DCd5f4VFDdk?si=ou0iQCT50kZdDBBM)
 - Guide/learning material from [Infinite Learning HCAI Program](https://kampusmerdeka.kemdikbud.go.id/program/studi-independen/browse/863c3409-8b4e-4c96-9edd-71ee61e9fc41/7a22d773-4ea0-11ed-a45a-c2cca2f5088a) (I can't share the material/content directly, because it's confidential and belong to [Infinite Learning](https://www.infinitelearning.id/) and IBM Academy)
