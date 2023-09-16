@@ -321,9 +321,9 @@ Open your browser and type the IP address of the VM. In my case, it's `https://1
 
 ### 24. Configure the Flow Sources
 
-- Click the **breadcrumb**
+- Click the hamburger menu icon in the top left corner of the QRadar Console.
 
-![Click the breadcrumb](./images/step24.webp#center "Click the breadcrumb")
+![hamburger menu](./images/step24.webp#center "Hamburger menu")
 
 - Click **Admin**
 
