@@ -48,6 +48,8 @@ The Monkey is consists of three components:
 - Monkey Island: Command and Control (C&C) server
 - Monkey Business: Integrates with orchestration
 
+![Monkey Components](./images/monkey_components.webp#center)
+
 ## Scenario
 
 In this tutorial, we will use the Infection Monkey to test the security of a network. We will use the Monkey to infect a server and then use the Monkey to infect other servers on the network.
@@ -258,6 +260,7 @@ Some of the advantages of using the Infection Monkey are:
 
 ## References
 
+- [Infection Monkey Documentation](https://techdocs.akamai.com/infection-monkey/docs/setting-up-infection-monkey)
 - [Unleash the Infection Monkey: A Modern Alternative to Pen-Tests @ Black Hat USA 2016](https://youtu.be/M_kJ7zfAagc?si=OwghlC4wSKTG_7yB)
 - [Making Breach & Attack Simulation Accessible and Actionable with Infection Monkey by Shay Nehmad @ Red Team Village](https://youtu.be/gOS1c375Hbg?si=iuuJ_5zhggbU4pm-)
 - [Tutorial: Breach and Attack Simulation (BAS) with Infection Monkey by Semi Yulianto @ YouTube](https://youtu.be/ZJDAtFEI2g4?si=OimumknAtm6q5AHX)
@@ -265,5 +268,7 @@ Some of the advantages of using the Infection Monkey are:
 - [Breach & Attack Simulation – What is that? by Priyank Gahlot @ LinkedIn](https://www.linkedin.com/pulse/breach-attack-simulation-what-priyank-gahlot)
 - [Difference Between Breach and Attack Simulation(BAS), Red teaming, and VAPT by Raghav S. @ LinkedIn](https://www.linkedin.com/pulse/difference-between-breach-attack-simulationbas-red-teaming-raghav-som)
 - [Automated Breach and Attack Simulation by Renier Steyn @ LinkedIn](https://www.linkedin.com/pulse/automated-breach-attack-simulation-renier-steyn)
+- [Infection monkey - Automated Penetration Testing and Breach-Attack Simulation by Motasem Hamdan @ YouTube](https://youtu.be/qy6RqCPLV8Y?si=0m_U06ZP8UVThVFC)
+- [Fuse Troubleshooting @ AppImage Docs](https://docs.appimage.org/user-guide/troubleshooting/fuse.html)
 - [Breach and attack simulation (BAS) @ Wikipedia](https://en.wikipedia.org/wiki/Breach_and_attack_simulation)
 - [Breach and Attack Simulation (BAS) @ dig8labs](https://www.dig8labs.com/offensive-security/breach-and-attack-simulation/)
