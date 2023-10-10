@@ -93,7 +93,7 @@ params:
     # - name: xmpp => There is a bug in the URL, when using `xmpp:` as a protocol in the URL, it will be converted to http://xmpp:hiiruki@yourdataforsale which results in 404.
     #   url: "xmpp:hiiruki@yourdata.forsale"
     - name: email
-      url: "mailto:hi@hiiruki.dev"
+      url: "mailto:h%69&#64;h&#105;&#105;ru&#107;&#105;&#46;&#100;ev"
     - name: pgp
       url: "/pgp.txt"
     - name: rss

@@ -43,7 +43,7 @@ I started this blog to jot down things I've learned, mainly because I tend to fo
 📡 [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat "IRC @ Wikipedia") - hiiruki @ [Rizon](https://www.rizon.net/)<br>
 📡 [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat "IRC @ Wikipedia") - hiiruki @ [tilde.chat](https://tilde.chat/)<br>
 
-📧 [E-mail](mailto&#58;h%69&#64;h&#105;&#105;ru&#107;&#105;&#46;&#100;ev)
+📧 [E-mail](mailto:h%69&#64;h&#105;&#105;ru&#107;&#105;&#46;&#100;ev)
 
 <details>
 <summary> 🔑 PGP Public Key </summary>
