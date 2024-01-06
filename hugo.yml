@@ -3,7 +3,7 @@ baseURL: "https://hiiruki.dev/"
 languageCode: en-us
 title: "Hiiruki's Lab"
 theme: Kamigo
-copyright: '&copy; 2023 [hiiruki.dev](https://hiiruki.dev) | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) | [Privacy Policy](/privacy) | [Disclaimer](/disclaimer)'
+copyright: '&copy; 2024 [hiiruki.dev](https://hiiruki.dev) | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) | [Privacy Policy](/privacy) | [Disclaimer](/disclaimer) | [Status](https://status.hiiruki.dev/)'
 
 enableRobotsTXT: true
 buildDrafts: false
