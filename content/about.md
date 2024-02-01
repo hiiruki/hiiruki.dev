@@ -95,7 +95,7 @@ F1085BD5 D359788F 05F936D8 3185A5BE
 <details>
 <summary>🎵 Now listening</summary>
 <p>
-<img src="https://api.spotify.hiiruki.dev/api?scan=true" align="center" alt="Current Spotify Song">
+<img src="https://api.spotify.hiiruki.dev/api?scan=true&theme=dark" align="center" alt="Current Spotify Song">
 </p>
 <br>
 
