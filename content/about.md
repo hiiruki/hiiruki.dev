@@ -92,14 +92,14 @@ F1085BD5 D359788F 05F936D8 3185A5BE
 
 ### Misc:
 
-👨‍💻 [humans.txt](/humans.txt)
-<br>
-
 <details>
 <summary>🎵 Now listening</summary>
 <p>
-<img src="https://spotify.hiiruki.dev/api?theme=dark&scan=true" align="center" alt="Current Spotify Song">
+<img src="https://api.spotify.hiiruki.dev/api?scan=true" align="center" alt="Current Spotify Song">
 </p>
+<br>
+
+[Full Visualizer](https://spotify.hiiruki.dev/ "Spotify Visualizer")
 </details>
 <br>
 
@@ -109,6 +109,19 @@ F1085BD5 D359788F 05F936D8 3185A5BE
   <img src="https://lanyard-profile-readme.vercel.app/api/529270835341426708?hideTimestamp=false&hideDiscrim=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="center" alt="Discord Presence">
 </p>
 </details>
+<br>
+
+<details>
+<summary>🛜 Wi-Fi Pwned</summary>
+<p>
+  <img src="https://wigle.net/bi/hPCdvaBdwb9g+_8pGX6b8A.png" align="center" alt="Discord Presence">
+</p>
+</details>
+<br>
+
+📊 [Status](https://status.hiiruki.dev/ "Hiiruki's Status Page")<br>
+
+🧑‍💼 [humans.txt](/humans.txt)
 
 <script type="text/javascript">['contextmenu', 'selectstart'].forEach((e) => {
         document.addEventListener(e, (e) => e.preventDefault());

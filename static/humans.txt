@@ -25,8 +25,8 @@ Technologies:
 - Standards  : HTML, CSS, JavaScript, Markdown
 - Frameworks : Hugo
 - IDE        : Visual Studio Code, Vim, Nano
-- Hosting    : Netlify, Vercel, DigitalOcean, GitHub
-- OS         : Arch Linux, Windows 11, Kali Linux, Ubuntu
+- Hosting    : Netlify, Vercel, DigitalOcean, GitHub, ALibaba ECS
+- OS         : Arch Linux, Windows 11, Kali Linux, Ubuntu, Fedora, Nobara
 
 /* THANKS */
 
