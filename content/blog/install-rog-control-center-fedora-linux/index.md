@@ -46,7 +46,7 @@ This software is designed to work with ASUS ROG/TUF laptops but may work with ot
 
 So, this guide will also show you how to install and setup ROG Control Center on your Fedora Linux machine.
 
-## My Setup
+### My Setup
 
 - **Laptop**: [ASUS TUF Gaming A15 (FX506IH)](https://www.asus.com/laptops/for-gaming/tuf-gaming/asus-tuf-gaming-a15/)
 - **OS**: [Nobara 39](https://nobaraproject.org/) (Fork of Fedora 39 Workstation with gaming oriented tweaks)
