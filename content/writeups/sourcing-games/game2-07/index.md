@@ -91,6 +91,10 @@ Also if you are using Microsoft Word, you can open the file and go to `File` > `
 
 ![Word Properties Advanced](images/word-info-properties.webp#center "Word Properties Advanced")
 
+And we finished the second Sourcing Game! 🎉
+
+![congrats](images/congrats.webp#center "https://sourcing.games/game-2/game-2-c47ya/")
+
 ## Flag/Password
 
 <details>
