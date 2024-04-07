@@ -52,7 +52,7 @@ Based on the description, some folder of the website `inovace.eu` was indexed by
 
 But I'm curious about the website, so I'll visit it first.
 
-![homepage](images/homepage.png)
+![homepage](images/homepage.webp#center)
 
 Turns out, the website is under construction. So, let's find the directory.
 
@@ -62,7 +62,7 @@ To find the directory, we can use the following Google dork:
 site:inovace.eu
 ```
 
-![google-dork](images/google-dork.png)
+![google-dork](images/google-dork.webp#center)
 
 or
 
@@ -70,29 +70,29 @@ or
 index of site:inovace.eu
 ```
 
-![google-dork2](images/google-dork2.png)
+![google-dork2](images/google-dork2.webp#center)
 
 Well that was easy. The result shows the password in google search result. The password is `007games` which in the `/folder` directory (https://inovace.eu/folder/).
 
-![password](images/password.png)
+![password](images/password.webp#center)
 
 Well the website also has directory listing enabled. So, let's visit the directory.
 
-![directory](images/dir-listing.png)
+![directory](images/dir-listing.webp#center)
 
 in the directory, there are 3 files which are:
 
 - [`resume.docx`](files/resume.docx)
 
-![resume.docx](images/resume-docx.png)
+![resume.docx](images/resume-docx.webp#center)
 
 - [`resume.pdf`](files/resume.pdf)
 
-![resume.pdf](images/resume-pdf.png)
+![resume.pdf](images/resume-pdf.webp#center)
 
 - [`start.html`](files/start.html)
 
-![start.html](images/start-html.png)
+![start.html](images/start-html.webp#center)
 
 The file `resume.docx` and `resume.pdf` both contain password `kxas71`. But, when I tried to use the password, it didn't work. So, I tried the password from `/folder` directory, and it worked. So, the password is `007games`.
 
@@ -100,7 +100,7 @@ The `kxas71` password either is a _red herring_ or for another level.
 
 And we finished the first Sourcing Game! 🎉
 
-![congrats](images/congrats.png "https://sourcing.games/game-1/game-1-fs7ff/")
+![congrats](images/congrats.webp#center "https://sourcing.games/game-1/game-1-fs7ff/")
 
 ## Flag/Password
 
