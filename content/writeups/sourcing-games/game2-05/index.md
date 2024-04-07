@@ -5,7 +5,7 @@ summary: "Game 2 – 05"
 date: 2024-02-28T08:22:42+07:00
 draft: false
 author: "Hiiruki" # ["Me", "You"] # multiple authors
-tags: ["OSINT", "SOCMINT", "sourcing-games", "game2", "game2-5", "github", "email", "docx"]
+tags: ["OSINT", "SOCMINT", "sourcing-games", "game2", "game2-5", "github", "email", "docx", "ghosint"]
 canonicalURL: ""
 showToc: true
 TocOpen: false
@@ -124,35 +124,61 @@ When the file is opened, we can see the password to open the next level.
 
 ## Extras
 
+### Tools
+
 For GitHub OSINT stuff I made a script/tools to automate the process, you can find it [here](https://github.com/hiiruki/ghosint). It's called `ghosint` which the name is coming from "GitHub OSINT". It's a simple Python script that uses the GitHub API to gather information about a user or an organization. This tools requires a GitHub API token to work.
 
-The information that can be gathered are:
+### Features
 
-- User Information:
+<details><summary> The information that can be gathered are: </summary>
+
+- Basic Information
   - Username
   - Name
   - ID
   - Node ID
-  - Gravatar ID
+  - Avatar URL
   - Location
   - Bio
-  - Email
-  - Twitter
   - Company
   - Hireable
   - Organizations
   - Followers
   - Following
   - Type
-  - Created at
-  - Updated at
-
-- Repo Information
+  - Created
+  - Updated
+- Socials
+  - Email (Public)
+  - Email (Commit)
+  - Gravatar ID
+  - Blog
+  - GitHub Pages
+  - Twitter
+  - Facebook
+  - Instagram
+  - Linkedin
+  - Mastodon
+  - Reddit
+  - Twitch
+  - Youtube
+  - Hometown
+  - Generic (Custom)
+- User Credentials
+  - Public PGP/GPG Key
+  - Public SSH Key
+- Repos Information
   - Public Repos
   - Public Gists
   - GitHub Gist
+- Latest Commit
+  - Latest Commit Hash
+  - Commit Message
+  - Commit URL
+  - Commit API URL
+  </details>
 
-- Screenshots
+### Screenshots
 
 ![ghosint](images/ghosint.webp#center)
 
