@@ -1,0 +1,22 @@
+<footer class="footer">
+    {{- if site.Copyright }}
+    <span>{{ site.Copyright | markdownify }}</span>
+    {{- else }}
+    <span>&copy; {{ now.Year }} <a href="{{ "" | absLangURL }}">{{ site.Title }}</a></span>
+    <span> | <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="external nofollow noopener noreferrer">CC BY-NC-SA 4.0 <!-- (&#127341;&#127343;&#127247;&#127246;) --></a> | <a href="/privacy" rel="privacy-policy">Privacy Policy</a> | <a href="/disclaimer">Disclaimer</a> | <a href="https://status.hiiruki.dev/">Status</a></span>
+        <br>
+        &#9004; 0.02g of <a href="https://en.wikipedia.org/wiki/Carbon_dioxide" target="_blank" rel="external nofollow noopener noreferrer">CO<sub>2</sub></a>/view | <a href="https://www.websitecarbon.com/website/hiiruki-dev/" target="_blank" rel="external nofollow noopener noreferrer">Carbon Footprint</a> | <a href="https://www.thegreenwebfoundation.org/green-web-check/?url=hiiruki.dev" target="_blank" rel="external nofollow noopener noreferrer">The Green Web Foundation</a>
+        <br>
+        {{/*  This web is a part of <a href="https://www.thegreenwebfoundation.org/green-web-check/?url=hiiruki.dev" target="_blank" rel="external nofollow noopener noreferrer">The Green Web Foundation</a>
+        <br>  */}}
+        &#128736; Powered by <a href="https://gohugo.io/" target="_blank" rel="external nofollow noopener noreferrer">Hugo</a> & <a href="https://github.com/hiiruki/hugo-Kamigo/" target="_blank" rel="external nofollow noopener">Kamigo</a>
+        <br>
+        <br>
+        {{/*  <center><script type="text/javascript" src="//counter.websiteout.com/js/36/0/0/1"></script></center>  */}}
+        <!-- Badge
+        <br><br>
+        <center><a href="https://www.thegreenwebfoundation.org/green-web-check/?url=hiiruki.dev" target="_blank" rel="external nofollow noopener noreferrer"><img src="https://app.greenweb.org/api/v3/greencheckimage/hiiruki.dev?nocache=true" alt="This website runs on green hosting - verified by thegreenwebfoundation.org" width="200px" height="95px"></a></center>
+        -->
+    </span>
+</footer>
+{{- end }}
