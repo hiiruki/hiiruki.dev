@@ -3,7 +3,6 @@ baseURL: "https://hiiruki.dev/"
 languageCode: en-us
 title: "Hiiruki's Lab"
 theme: Kamigo
-copyright: '&copy; 2024 [hiiruki.dev](https://hiiruki.dev) | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) | [Privacy Policy](/privacy) | [Disclaimer](/disclaimer) | [Status](https://status.hiiruki.dev/)'
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -23,7 +22,7 @@ params:
   env: production
   title: "Hiiruki's Lab"
   description: "Thoughts and research on security, privacy, *nix based systems, and other IT stuff."
-  keywords: [Blog, Research, Security, Privacy, Linux]
+  keywords: [Blog, Research, Security, Privacy, Linux, Programming]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -43,6 +42,8 @@ params:
   comments: false
   hidemeta: false
   hideSummary: false
+  # copyright: '&copy; 2024 [hiiruki.dev](https://hiiruki.dev) | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) | [Privacy Policy](/privacy) | [Disclaimer](/disclaimer) | [Status](https://status.hiiruki.dev/)'
+  hideFooter: true
   # showtoc: false
   # tocopen: false
 
@@ -103,12 +104,6 @@ params:
     hidden: true # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
-
-# # For edit link
-#   editPost:
-#     URL: "https://github.com/hiiruki/fathoni.dev/blob/main/content"
-#     Text: "Source Code" # edit text
-#     appendFilePath: true # to append file path to Edit link
 
 # For search
   # https://fusejs.io/api/options.html
