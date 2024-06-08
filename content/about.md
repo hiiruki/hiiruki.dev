@@ -125,7 +125,7 @@ F1085BD5 D359788F 05F936D8 3185A5BE
 
 ### Credit:
 
-The vtuber style logo is designed by [Zamkara](https://t.me/zamkara)
+The vtuber style logo is designed by [Zamkara](https://t.me/directokara)
 
 <script type="text/javascript">['contextmenu', 'selectstart'].forEach((e) => {
         document.addEventListener(e, (e) => e.preventDefault());

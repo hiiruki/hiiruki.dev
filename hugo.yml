@@ -67,8 +67,8 @@ params:
       enabled: true # needs to be explicitly set
       # title: ひるき
       subtitle: "_Astra inclinant, sed non obligant._"
-      imageUrl: "/images/hiiruki.svg"
-      imageWidth: 400
+      imageUrl: "/images/hiirukiv2.svg"
+      imageWidth: 600
       imageHeight: auto
       imageTitle: Hiiruki's Logo or Profile Picture
       buttons:
