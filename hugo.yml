@@ -20,7 +20,7 @@ minify:
 # Site parameters
 params:
   env: production
-  title: "Hiiruki's Lab"
+  # title: "Hiiruki's Lab"
   description: "Thoughts and research on security, privacy, *nix based systems, and other IT stuff."
   keywords: [Blog, Research, Security, Privacy, Linux, Programming]
   DateFormat: "January 2, 2006"
@@ -59,18 +59,18 @@ params:
 
 # Home-info mode
   homeInfoParams:
-    title: "Hiiruki's Lab"
+    # title: "Hiiruki's Lab"
     content: Thoughts and research on security, privacy, *nix based systems, and other IT stuff.
 
 # profile-mode
   profileMode:
       enabled: true # needs to be explicitly set
-      title: ひるき
+      # title: ひるき
       subtitle: "_Astra inclinant, sed non obligant._"
-      imageUrl: "/images/profile.webp"
-      imageWidth: 120
-      imageHeight: 120
-      imageTitle: Hiiruki's Profile Picture
+      imageUrl: "/images/hiiruki.svg"
+      imageWidth: 400
+      imageHeight: auto
+      imageTitle: Hiiruki's Logo or Profile Picture
       buttons:
         - name: Blog
           url: blog
@@ -91,8 +91,8 @@ params:
     #   url: "https://discordapp.com/users/529270835341426708"
     # - name: telegram
     #   url: "https://t.me/hiirvki"
-    # - name: xmpp => There is a bug in the URL, when using `xmpp:` as a protocol in the URL, it will be converted to http://xmpp:hiiruki@yourdataforsale which results in 404.
-    #   url: "xmpp:hiiruki@yourdata.forsale"
+    - name: xmpp
+      url: "xmpp://hiiruki@yourdata.forsale"
     - name: email
       url: "mailto:h%69&#64;h&#105;&#105;ru&#107;&#105;&#46;&#100;ev"
     - name: pgp

@@ -123,6 +123,10 @@ F1085BD5 D359788F 05F936D8 3185A5BE
 
 🧑‍💼 [humans.txt](/humans.txt)
 
+### Credit:
+
+The vtuber style logo is designed by [Zamkara](https://t.me/zamkara)
+
 <script type="text/javascript">['contextmenu', 'selectstart'].forEach((e) => {
         document.addEventListener(e, (e) => e.preventDefault());
       });
