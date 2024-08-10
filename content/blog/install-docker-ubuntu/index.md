@@ -432,7 +432,7 @@ Now, open your web browser and navigate to `http://your_server_ip:port`. You sho
 
 ![web page](images/web.webp#center)
 
-{{< figure src="./images/containerize.webp" caption="Containerize all the things!" align="center" alt="Install wget on CentOS" >}}
+{{< figure src="./images/containerize.webp" caption="Containerize all the things!" align="center" alt="Containerize all the things!" >}}
 
 ## References
 
