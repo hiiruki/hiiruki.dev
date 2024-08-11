@@ -2,7 +2,7 @@
 
 _yet another personal website._
 
-[![Cloudflare Build Status](https://img.shields.io/endpoint?url=https://pages.hiiruki.dev/project/hiiruki-dev?label=hiiruki.dev)](hiiruki.dev) [![Netlify Build Status](https://api.netlify.com/api/v1/badges/73730c94-7f54-47c9-bd39-054054829340/deploy-status)](https://app.netlify.com/sites/hiiruki/deploys "Netlify Status")
+[![Cloudflare Build Status](https://img.shields.io/endpoint?url=https://pages.hiiruki.dev/project/hiiruki-dev?label=hiiruki.dev)](https://hiiruki.dev "Cloudflare Pages Status") [![Netlify Build Status](https://api.netlify.com/api/v1/badges/73730c94-7f54-47c9-bd39-054054829340/deploy-status)](https://app.netlify.com/sites/hiiruki/deploys "Netlify Status")
 
 This is my personal website. It's built with [Hugo](https://gohugo.io/) and hosted on [Cloudflare](https://cloudflare.com/) and [Netlify](https://www.netlify.com/) and using [Kamigo](https://github.com/hiiruki/hugo-Kamigo) theme. You can visit [here](https://hiiruki.dev).
 
