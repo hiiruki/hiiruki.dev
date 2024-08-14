@@ -150,7 +150,7 @@ Check the home directory and the group name. Make sure they are correct.
 
 My data is still there as expected.
 
-![](images/folder.webp#center)
+![](images/file_manager.webp#center)
 
 Then change the password for the new username.
 
