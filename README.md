@@ -9,6 +9,9 @@ This is my personal website. It's built with [Hugo](https://gohugo.io/) and host
 > [!NOTE]
 > Main hosting is on Cloudflare and Netlify is used as a backup hosting. The website is served over HTTPS and has a valid SSL certificate. I moved from Netlify to Cloudflare because of the better performance and security features and most of my domains are already on Cloudflare. Netlify is still used as a backup hosting.
 
+> [!NOTE]
+> The supported Hugo versions are [0.118.2](https://github.com/gohugoio/hugo/releases/tag/v0.118.2) to [0.119.0](https://github.com/gohugoio/hugo/releases/tag/v0.119.0); versions newer than v0.119.0 will likely break the date format. 
+
 ![light mode](.github/images/light_mode.webp#center "Light mode")
 ![dark mode](.github/images/dark_mode.webp#center "Dark mode")
 
@@ -58,7 +61,6 @@ end
 ### Content
 
  <p xmlns:cc="http://creativecommons.org/ns#" ><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
-
 
 The content of this website is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
