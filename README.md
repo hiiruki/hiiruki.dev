@@ -10,7 +10,7 @@ This is my personal website. It's built with [Hugo](https://gohugo.io/) and host
 > Main hosting is on Cloudflare and Netlify is used as a backup hosting. The website is served over HTTPS and has a valid SSL certificate. I moved from Netlify to Cloudflare because of the better performance and security features and most of my domains are already on Cloudflare. Netlify is still used as a backup hosting.
 
 > [!NOTE]
-> The supported Hugo versions are [0.118.2](https://github.com/gohugoio/hugo/releases/tag/v0.118.2) to [0.119.0](https://github.com/gohugoio/hugo/releases/tag/v0.119.0); versions newer than v0.119.0 will likely break the date format. 
+> The supported Hugo versions are [0.118.2](https://github.com/gohugoio/hugo/releases/tag/v0.118.2) to [0.119.0](https://github.com/gohugoio/hugo/releases/tag/v0.119.0); versions newer than v0.119.0 will likely break the date format. For the version under v0.118.2, some version still works but it's not recommended to use it.
 
 ![light mode](.github/images/light_mode.webp#center "Light mode")
 ![dark mode](.github/images/dark_mode.webp#center "Dark mode")
