@@ -2,7 +2,7 @@
 title: "Fix Missing Windows Boot Option in Linux Dual Boot (GRUB)"
 description: "Fix missing Windows entry in GRUB menu on dual boot Linux"
 summary: "Fix missing Windows entry in GRUB menu on dual boot Linux"
-date: 2024-08-20T17:05:12+07:00
+date: 2024-08-16T17:05:12+07:00
 draft: false
 author: "Hiiruki"
 tags: ["linux", "windows", "dual-boot", "grub", "bootloader", "arch", "arch-linux"]
